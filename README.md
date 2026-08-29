@@ -84,9 +84,9 @@ Debajo de la spec, en el mismo archivo. **Esta parte no se puede fallar**, y es 
 Con el botón **Fork** de arriba. Sobre un clon directo no tienes permiso de escritura, y aquí vas a crear una rama y commitear.
 
 ```bash
-git clone git@github.com:<tu-usuario>/flowsync-ai4devs.git
-cd flowsync-ai4devs
-git remote add upstream git@github.com:LIDR-academy/flowsync-ai4devs.git
+git clone git@github.com:<tu-usuario>/flowsync-ai4devs-202609-seniors-2.git
+cd flowsync-ai4devs-202609-seniors-2
+git remote add upstream git@github.com:LIDR-academy/flowsync-ai4devs-202609-seniors-2.git
 git fetch upstream
 git checkout -b s3/start upstream/s3/start
 ```
